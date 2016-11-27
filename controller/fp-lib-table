@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name attiny841-spi)(type KiCad)(uri "$(KIPRJMOD)/attiny841-spi.pretty")(options "")(descr ""))
+  (lib (name pushbutton)(type KiCad)(uri "$(KIPRJMOD)/pushbutton.pretty")(options "")(descr ""))
+  (lib (name fanconnector)(type KiCad)(uri "$(KIPRJMOD)/fanconnector.pretty")(options "")(descr ""))
+)
