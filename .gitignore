@@ -18,3 +18,10 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# c stuff
+*.o
+*.hex
+*.out
+*.out.map
+*.lst
